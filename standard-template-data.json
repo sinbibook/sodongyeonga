@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-09-29T02:36:33.488329514Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-09-29T02:41:02.487695979Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -1004,7 +1004,16 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ]
+                "images": [
+                  {
+                    "id": "01a0eb09-6357-752a-8750-2e56557339d1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/directions_hero/1790649654940-c8owuywy0x.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -1138,7 +1147,83 @@
             }
           ]
         },
-        "room": [ ],
+        "room": [
+          {
+            "id": "01a0e75a-bbe4-7834-bd73-18ceb54f6cc9",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Make your romantic memory",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": "감성 가득한 거제 소동연가 스파 펜션에서의 하루\n평생 잊지못할 낭만적인 추억을 만들어보세요.",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "01a0e75a-be71-7984-8dd4-702c9ac66b62",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Make your romantic memory",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": "감성 가득한 거제 소동연가 스파 펜션에서의 하루\n평생 잊지못할 낭만적인 추억을 만들어보세요.",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "01a0e75a-bfdc-7b04-9c84-89d598365fd7",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Make your romantic memory",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": "감성 가득한 거제 소동연가 스파 펜션에서의 하루\n평생 잊지못할 낭만적인 추억을 만들어보세요.",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "01a0e75a-bd6c-7581-b232-24179de9ad86",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Make your romantic memory",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": "감성 가득한 거제 소동연가 스파 펜션에서의 하루\n평생 잊지못할 낭만적인 추억을 만들어보세요.",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "01a0e75a-c136-7d72-8b28-f1a7f8d486b7",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Make your romantic memory",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": "감성 가득한 거제 소동연가 스파 펜션에서의 하루\n평생 잊지못할 낭만적인 추억을 만들어보세요.",
+                  "images": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "facility": [ ],
         "reservation": {
           "sections": [
@@ -1173,15 +1258,33 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a0eb09-628f-7669-bf38-fccdb554e32e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/layout_map_hero/1790649654886-mpcbevvjat.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
               "about": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a0eb09-6083-73b2-88e1-487014d5317a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/layout_map_about/1790649654836-h3s70pqqwn.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
-              "enabled": false
+              "enabled": true
             }
           ]
         }
