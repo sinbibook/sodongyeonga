@@ -1,20 +1,12 @@
-/* ============================================================
-   Theme CSS - 색상 및 폰트 정의 (이 파일만 교체하면 테마 변경)
-   - 백오피스 theme(color.primary/secondary, font.koMain/koSub/enMain)와 매핑
-   ============================================================ */
-
-/* ===== Fonts ===== */
-/* Noto Serif KR(ko-main): 웹폰트 / Pretendard(ko-sub)·Roustel(en-main): reset.css @font-face(로컬) */
+/* CDN Fonts */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
 
+/* CSS Variables */
 :root {
-  /* ===== Colors (백오피스에서 변경 가능) ===== */
-  --color-primary: #eae0d7;    /* 라이트 배경/베이지 톤 */
-  --color-secondary: #867165;  /* 메인 브라운(브랜드) */
-  /* 투명도 파생은 CSS 상대색으로: rgb(from var(--color-primary) r g b / 0.5) */
-
-  /* ===== Fonts ===== */
-  --font-ko-main: 'Noto Serif KR', serif;   /* 한글 메인(명조 제목/본문) */
-  --font-ko-sub: 'Pretendard', sans-serif;  /* 한글 서브(본문 기본) */
-  --font-en-main: 'Roustel', serif;         /* 영문 메인(장식 스크립트) */
+  --font-ko-main: 'Pretendard', sans-serif;
+  --font-ko-sub: 'Pretendard', sans-serif;
+  --font-en-main: 'Roustel', serif;
+  --color-primary: #eae0d7;
+  --color-secondary: #867165;
 }
