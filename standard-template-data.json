@@ -1,0 +1,960 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "generatedAt": "2026-09-29T01:43:02.262839420Z",
+    "templateType": "trip_f",
+    "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
+    "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
+  },
+  "property": {
+    "id": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
+    "name": "거제 소동연가 스파 펜션",
+    "nameEn": "Geoje Sodongyeonga Pension",
+    "description": "오션뷰를 품은 자쿠지 스파가 있는 소동연가 펜션입니다. 거제도에서 편안한 쉼과 감성 가득한 시간을 연인, 가족과 함께 보내보세요.",
+    "subtitle": "",
+    "address": "경남 거제시 일운면 반송재로 480-8 거제 소동연가",
+    "latitude": 34.8373109613239,
+    "longitude": 128.688327654457,
+    "contactPhone": [
+      "010-3831-5406"
+    ],
+    "contactEmail": "",
+    "checkin": "15:00",
+    "checkout": "11:30",
+    "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 30분\n- 입실 마감시간: 19시 00분",
+    "usageGuide": "※ 냄새 심한 음식(홍어 등 삭힌 음식) 반입 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 30분\n- 입실 마감시간: 19시 00분\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 12개월 이상~8세 미만\n- 유아: 12개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 30,000원, 아동 1인 30,000원, 유아 무료\n(1박기준/현장결제)\n※ 13개월 미만도 침구 추가 시 인원추가요금 발생합니다.\n\n[공용바베큐]\n- 이용 객실: 101, 102, 패밀리 (201, 202 불가)\n- 바베큐 형태: 101, 102 야외 가스스토브 / 패밀리 테라스 전용 그릴\n- 이용 요금: 101, 102 1회 10,000원, 패밀리 30,000원(1박기준/현장결제)\n※ 가스스토브 사용 후 설거지 필수\n※ 201, 202 객실은 취사 및 바베큐 불가, 배달 및 밀키트 등 간편조리(전자레인지)만 가능\n\n[스파]\n- 이용 객실: 전 객실\n- 스파 형태: 자쿠지\n- 이용 요금: 1회 50,000원, 온수 추가 시 50,000원 (1박기준/현장결제)\n※ 자쿠지 당일 취소(환불) 불가\n※ 현장에 비치된 사용범 필독 (특히 물넘침 주의)\n\n[부대시설]\n[노래방]\n- 이용 객실: 패밀리\n- 이용 요금: 무료\n※ 객실 내 노래방 기기 이용 안내 필독 (이용시간, 소음차단 등)",
+    "reservationGuide": "※ 냄새 심한 음식(홍어 등 삭힌 음식) 반입 금지",
+    "province": "도/시",
+    "city": "시/군/구",
+    "domain": "sodongyeonga.kr",
+    "realtimeBookingId": "",
+    "ybsId": "",
+    "tripPropertyId": "13194",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
+    "amenities": [
+      "흡연구역(지정장소)",
+      "주차장"
+    ],
+    "nearbyAttractions": [ ],
+    "services": [ ],
+    "propertyThemes": [ ],
+    "propertyTypes": [ ],
+    "businessInfo": {
+      "businessName": "거제 소동연가",
+      "businessNumber": "196-75-00556",
+      "representativeName": "조은화",
+      "businessAddress": "경상남도 거제시 일운면 반송재로 480-8",
+      "businessPhone": "",
+      "businessEmail": "yeinsarang32484@daum.net",
+      "businessType": "corporate",
+      "businessCategory": "숙박업",
+      "eCommerceRegistrationNumber": ""
+    },
+    "contractInfo": {
+      "contractStartDate": "2025-09-10T00:00:00.000Z",
+      "contractEndDate": "2025-09-12T00:00:00.000Z",
+      "contractStatus": "active",
+      "contactName": "담당자명",
+      "contactEmail": "담당자 이메일",
+      "contactPhone": "담당자 전화번호",
+      "paymentTerms": null,
+      "cancellationPolicy": null,
+      "bankName": "은행명",
+      "accountNumber": "계좌번호",
+      "accountHolder": "예금주",
+      "commissionRate": 0,
+      "securityDeposit": 0
+    },
+    "facilities": [
+      {
+        "id": "01a0eace-475b-7551-bad6-0b3fd136da46",
+        "name": "오션뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a0eace-5fad-701c-9384-52b5158d4768",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0eace-475b-7551-bad6-0b3fd136da46/main/1790645788079-b70lovjji9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5fa8-72ba-b691-736ba4ac303f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0eace-475b-7551-bad6-0b3fd136da46/main/1790645788083-7ki0hyddpr.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5fac-79cf-88b7-cfec1f84780a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0eace-475b-7551-bad6-0b3fd136da46/main/1790645788087-9sqjlhmg7k.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5f04-7c78-b3e8-76509bc1b161",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0eace-475b-7551-bad6-0b3fd136da46/main/1790645788081-2f94u16ysx.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0e851-b0e6-7198-8a9d-3523e10560dc",
+        "name": "스파",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 스파 형태: 자쿠지\n- 이용 요금: 1회 50,000원, 온수 추가 시 50,000원 (1박기준/현장결제)\n※ 자쿠지 당일 취소(환불) 불가\n※ 현장에 비치된 사용범 필독 (특히 물넘침 주의)",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a0eace-51e8-723a-b80b-ed05f7d283f4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-7198-8a9d-3523e10560dc/main/1790645784608-qspk6wd63q.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-52ba-767a-ad5e-176bf33e3ea6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-7198-8a9d-3523e10560dc/main/1790645784603-ykac26l4oq.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-515a-7c0e-8941-cd113d5d6e8f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-7198-8a9d-3523e10560dc/main/1790645784606-wc9lfc3yx0.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-52bd-7926-a721-e25cb1c3f860",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-7198-8a9d-3523e10560dc/main/1790645784612-28h0mz40h7.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-52ab-7606-aaee-cc904b23b634",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-7198-8a9d-3523e10560dc/main/1790645784613-43ayxczucc.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0e851-b0e6-73e4-b027-ad0f446605c4",
+        "name": "공용바베큐",
+        "description": "",
+        "usageGuide": "- 이용 객실: 101, 102, 패밀리 (201, 202 불가)\n- 바베큐 형태: 101, 102 야외 가스스토브 / 패밀리 테라스 전용 그릴\n- 이용 요금: 101, 102 1회 10,000원, 패밀리 30,000원(1박기준/현장결제)\n※ 가스스토브 사용 후 설거지 필수\n※ 201, 202 객실은 취사 및 바베큐 불가, 배달 및 밀키트 등 간편조리(전자레인지)만 가능",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a0eace-5579-77f4-9f54-09f034239459",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-73e4-b027-ad0f446605c4/main/1790645785387-dlzpjtpes3.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-54e5-7a13-bdc9-20f384cbb8d9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-73e4-b027-ad0f446605c4/main/1790645785391-o4dn8tydhe.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5468-7dc6-8aef-489d241b184c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e851-b0e6-73e4-b027-ad0f446605c4/main/1790645785388-dfn5ze86m8.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a0e9d2-4f71-710a-90ba-9780f8be2690",
+        "name": "부대시설",
+        "description": "",
+        "usageGuide": "[노래방]\n- 이용 객실: 패밀리\n- 이용 요금: 무료\n※ 객실 내 노래방 기기 이용 안내 필독 (이용시간, 소음차단 등)",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a0eace-5905-76f7-ba95-f1fbbcab80eb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786082-nbvuxemkrz.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5792-7a2b-8974-2a5dd6aaeede",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786082-te7e4lhkl0.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-573e-79cc-988c-f504fe9dd043",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786090-1jhme9sh4s.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5cf5-78c2-bb2f-04c67d4bedac",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786086-vn06bm3b39.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5862-7795-ae00-4cf2a397353d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786093-oaflkxbq67.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5900-71a6-bc13-185424aa7ae1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786092-l121w962vb.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-58f5-719b-9bed-618db1eb5031",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786096-spkky4psbq.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-58ff-7108-bc24-dea1d3aae396",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786095-rploda9f4h.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-58f4-7dc7-b613-7c13c264df91",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786097-yjm9i2g7xe.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-5cf8-7765-abc4-0232799d952c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786099-ue57ossttc.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-58f0-79a7-9890-01633230c82d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786099-s3vqggmckz.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0eace-58f9-7a2b-b49f-b8a8aa610bd7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0e9d2-4f71-710a-90ba-9780f8be2690/main/1790645786101-c0oaq4bydb.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 10,
+        "refundRate": 100
+      },
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
+        "refundRate": 80
+      },
+      {
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
+        "refundRate": 50
+      },
+      {
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
+        "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
+      },
+      {
+        "refundProcessingDays": 0,
+        "refundRate": 0
+      }
+    ],
+    "refundSettings": {
+      "customerRefundNotice": "",
+      "immediateRefundEnabled": true,
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "10",
+      "sameDayReservationHourLimit": "0"
+    },
+    "images": [
+      {
+        "thumbnail": [ ],
+        "exterior": [ ],
+        "surrounding": [ ],
+        "commonArea": [ ]
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "id": "01a0e75a-bbe4-7834-bd73-18ceb54f6cc9",
+      "name": "101호(자쿠지)",
+      "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n35평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,자쿠지,드라이기,비데,블루투스 스피커,호텔식 어메니티,가스레인지,전자레인지",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 115.7,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전자레인지",
+        "가스레인지",
+        "블루투스스피커",
+        "헤어드라이어",
+        "자쿠지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "비데",
+        "호텔식 어메니티"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 1
+    },
+    {
+      "id": "01a0e75a-be71-7984-8dd4-702c9ac66b62",
+      "name": "102호(오션뷰/자쿠지)",
+      "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n35평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,자쿠지,드라이기,비데,블루투스 스피커,호텔식 어메니티,가스레인지",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 132.23,
+      "baseOccupancy": 2,
+      "maxOccupancy": 4,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "가스레인지",
+        "호텔식 어메니티",
+        "블루투스스피커",
+        "비데",
+        "헤어드라이어",
+        "자쿠지",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "전자레인지"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 2
+    },
+    {
+      "id": "01a0e75a-bfdc-7b04-9c84-89d598365fd7",
+      "name": "201호(오션뷰/자쿠지)",
+      "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n35평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,자쿠지,드라이기,비데,블루투스 스피커,호텔식 어메니티,가스레인지",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 82.65,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 2,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전자레인지",
+        "호텔식 어메니티",
+        "비데",
+        "헤어드라이어",
+        "자쿠지",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "남녀공용",
+        "블루투스스피커"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 3
+    },
+    {
+      "id": "01a0e75a-bd6c-7581-b232-24179de9ad86",
+      "name": "202호(오션뷰/자쿠지)",
+      "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n35평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,자쿠지,드라이기,비데,블루투스 스피커,호텔식 어메니티,가스레인지",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 82.65,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 2,
+        "livingRoom": 1,
+        "ondol": 0,
+        "kitchen": 0
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "자쿠지",
+        "에어컨",
+        "냉장고",
+        "금연",
+        "남녀공용",
+        "전자레인지",
+        "호텔식 어메니티",
+        "블루투스스피커",
+        "비데"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 4
+    },
+    {
+      "id": "01a0e75a-c136-7d72-8b28-f1a7f8d486b7",
+      "name": "패밀리 (오션뷰/자쿠지/노래방)",
+      "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n35평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,자쿠지,드라이기,비데,블루투스 스피커,호텔식 어메니티,가스레인지,전자레인지",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": null,
+      "size": 247.94,
+      "baseOccupancy": 6,
+      "maxOccupancy": 10,
+      "totalRoomCount": {
+        "bedroom": 2,
+        "bathroom": 3,
+        "livingRoom": 1,
+        "ondol": 1,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "바닥침구"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 2,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        },
+        {
+          "roomIndex": 3,
+          "roomKind": "ondol",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 1
+          }
+        }
+      ],
+      "amenities": [
+        "금연",
+        "정수기",
+        "남녀공용",
+        "전기포트",
+        "인덕션",
+        "노래방",
+        "전자레인지",
+        "가스레인지",
+        "호텔식 어메니티",
+        "블루투스스피커",
+        "비데",
+        "헤어드라이어",
+        "전기밥솥",
+        "취사시설/도구",
+        "에어컨",
+        "냉장고",
+        "TV",
+        "자쿠지"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "분리형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "",
+        "checkout": "",
+        "checkinDeadline": ""
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 5
+    }
+  ],
+  "homepage": {
+    "id": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177",
+    "domain": "sodongyeonga.kr",
+    "templateType": "trip_f",
+    "images": [
+      {
+        "logo": [ ]
+      }
+    ],
+    "seo": {
+      "title": "",
+      "description": "",
+      "keywords": "",
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
+    },
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
+    "customFields": {
+      "pages": {
+        "index": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "closing": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "essence": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "gallery": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              },
+              "signature": {
+                "title": "",
+                "images": [ ],
+                "videos": [ ],
+                "mediaType": "image",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "directions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "notice": {
+                "title": "",
+                "description": ""
+              }
+            }
+          ]
+        },
+        "main": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ]
+            }
+          ]
+        },
+        "room": [ ],
+        "facility": [ ],
+        "reservation": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ]
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              }
+            }
+          ]
+        },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
+        "layoutMap": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "enabled": false
+            }
+          ]
+        }
+      },
+      "popup": {
+        "popups": [ ]
+      },
+      "theme": {
+        "font": {
+          "koMain": null,
+          "koSub": null,
+          "enMain": null
+        },
+        "color": null
+      },
+      "property": {
+        "name": "거제 소동연가 스파 펜션",
+        "images": [ ],
+        "nameEn": "Geoje Sodongyeonga Pension"
+      },
+      "roomtypes": [
+        {
+          "id": "01a0e75a-bbe4-7834-bd73-18ceb54f6cc9",
+          "images": [ ]
+        },
+        {
+          "id": "01a0e75a-be71-7984-8dd4-702c9ac66b62",
+          "images": [ ]
+        },
+        {
+          "id": "01a0e75a-bfdc-7b04-9c84-89d598365fd7",
+          "images": [ ]
+        },
+        {
+          "id": "01a0e75a-bd6c-7581-b232-24179de9ad86",
+          "images": [ ]
+        },
+        {
+          "id": "01a0e75a-c136-7d72-8b28-f1a7f8d486b7",
+          "images": [ ]
+        }
+      ]
+    }
+  }
+}
