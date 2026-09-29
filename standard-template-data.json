@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-09-29T02:14:30.598296841Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-09-29T02:29:53.693985602Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -927,10 +927,19 @@
               },
               "closing": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a0eaff-3562-79db-897e-b601ef54d400",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/index_closing/1790648988602-oxdrv50j5i.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "감성 가득한 하루를 보내고 싶다면 경주 로즈브리즈 풀빌라 펜션에 머물러 보세요.\n이곳에서의 추억은 오랫동안 기억에 남는 특별한 경험이 될 것입니다."
               },
               "essence": {
                 "title": "Sodongyeonga",
@@ -946,14 +955,39 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "지친 일상의 유일한 휴식처, 경주 로즈브리즈 풀빌라 펜션에 오신 것을 환영합니다."
               },
               "gallery": {
-                "title": "",
-                "images": [ ],
+                "title": "거제 소동연가 스파 펜션에서 즐기는 특별한 순간",
+                "images": [
+                  {
+                    "id": "01a0eaff-351f-73bc-86e1-39fbe14b8be8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/index_gallery/1790648988541-p2uhpzsz9l.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0eaff-351f-7093-b638-e1d522cf2b4d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/index_gallery/1790648988548-w8fsp2566n.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a0eaff-3611-78db-9ec2-1fe645d8cbbc",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/index_gallery/1790648988546-tyupy2mj5v.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "감성 가득한 하루를 보낼 수 있는 단 하루\n소중한 여행 그리고 휴식\n거제 소동연가 스파 펜션에서 특별한 순간을 느껴보세요."
               },
               "signature": {
                 "title": "",
