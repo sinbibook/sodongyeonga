@@ -171,6 +171,11 @@
     var ybs_url = 'https://rev.yapen.co.kr/external?ypIdx=';
     var ybsButtons = document.querySelectorAll('[data-ybs-button]');
 
+    // 예약 버튼의 '특가' 뱃지는 YBS 버튼이 노출될 때만 보인다
+    document.querySelectorAll('[data-ybs-badge]').forEach(function (badge) {
+      badge.style.display = ybsId ? '' : 'none';
+    });
+
     if (!ybsId) {
       ybsButtons.forEach(function (button) {
         button.style.display = 'none';
@@ -383,8 +388,12 @@
       document.querySelectorAll(sel).forEach(function (el) { el.textContent = val; });
     }
 
-    // 상호명
+    // 상호명 — 로고가 있으면 로고가 이름 역할을 하므로 중복 노출하지 않는다
     setText('[data-footer-business-name]', b.businessName || this.getPropertyName());
+    var hasLogo = !!this.getLogo();
+    document.querySelectorAll('[data-footer-business-name]').forEach(function (el) {
+      el.style.display = hasLogo ? 'none' : '';
+    });
     // 전화번호 + tel: 링크 ← property.contactPhone (배열이면 전부 한 줄씩 노출)
     this.renderFooterPhones(this.toPhoneList(prop && prop.contactPhone));
     // 사업자 정보
