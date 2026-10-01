@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-10-01T12:02:47.153550161Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-10-01T12:03:35.667844408Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -27,7 +27,7 @@
     "province": "도/시",
     "city": "시/군/구",
     "domain": "sodongyeonga.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13194",
     "ybsId": "",
     "tripPropertyId": "13194",
     "partnerType": "distributor_b",
