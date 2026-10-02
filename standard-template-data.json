@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.41.0",
-    "generatedAt": "2026-10-02T02:25:06.290423063Z",
+    "version": "1.42.0",
+    "generatedAt": "2026-10-02T06:34:48.421124159Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -112,9 +112,17 @@
             "blockId": null
           },
           {
+            "id": "01a0fa78-b3dc-7421-9d8e-8125ac953942",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790908609000-gr56hwsy7v.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "01a0fa57-3f60-7a34-a75f-f32e4035f93f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906415933-y1k640ctwy.jpg",
-            "sortOrder": 4,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -122,7 +130,7 @@
           {
             "id": "01a0fa57-3f66-7008-ba42-bc6f512a67a4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906415930-uptn87vqfx.jpg",
-            "sortOrder": 5,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -173,7 +181,7 @@
       {
         "id": "01a0e851-b0e6-7198-8a9d-3523e10560dc",
         "name": "스파",
-        "description": "",
+        "description": "별빛 아래, 온전한 휴식\n따뜻한 자쿠지와 프라이빗한 공간에서 소중한 추억을 남겨보세요.",
         "usageGuide": "- 이용 객실: 전 객실\n- 스파 형태: 자쿠지\n- 이용 요금: 1회 30,000원 (1박기준/현장결제)\n※ 자쿠지 당일 취소(환불) 불가\n※ 현장에 비치된 사용범 필독 (특히 물넘침 주의)",
         "displayOrder": 2,
         "images": [
@@ -1787,8 +1795,17 @@
               "signature": {
                 "title": "",
                 "images": [ ],
-                "videos": [ ],
-                "mediaType": "image",
+                "videos": [
+                  {
+                    "id": "01a0fb52-8918-73b1-a306-4c8176b39716",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-videos/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/index_signature/1790922884003-npjiuujzcd.mp4",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
+                "mediaType": "video",
                 "description": ""
               }
             }
@@ -2053,9 +2070,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
