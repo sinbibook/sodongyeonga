@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-10-02T01:59:24.398340945Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-10-02T02:23:24.406312350Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -72,6 +72,63 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "01a0fa4f-af61-7aad-a143-1532b20c1b91",
+        "name": "힐링 펜션",
+        "description": "",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a0fa57-402c-75b7-b1dd-b55e627298e7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906416083-iaz9lt7b69.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0fa57-3d53-75ec-b514-4b8dd26f7068",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906415925-i72vcpujr2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0fa57-4047-7624-8418-c73ca7dc6eb8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906416083-ufm6zp3gdv.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0fa57-3d6e-7e76-b8c4-2c3eda0d0745",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906415927-lrtei1tnya.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0fa57-3f60-7a34-a75f-f32e4035f93f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906415933-y1k640ctwy.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a0fa57-3f66-7008-ba42-bc6f512a67a4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a0fa4f-af61-7aad-a143-1532b20c1b91/main/1790906415930-uptn87vqfx.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "01a0eace-475b-7551-bad6-0b3fd136da46",
         "name": "오션뷰",
@@ -1979,6 +2036,26 @@
                   "benefits": [ ],
                   "features": [ ],
                   "additionalInfos": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "01a0fa4f-af61-7aad-a143-1532b20c1b91",
+            "sections": [
+              {
+                "hero": {
+                  "title": "[ 소동연가만의 특별함 ]\n\n자연 · 예술 · 휴식\n\n마감 하나하나에 자연의 소재를 사용하여 가장 자연스러운 공간이\n가장 편안한 휴식을 제공한다는 건축주의 철학을 담았습니다.\n\n천혜의 자연경관과 예술적인 공간이 어우러진 소동연가에서\n일상에서 벗어난 진정한 휴식과 힐링을 경험해 보세요.\n\n갤러리 예술섬과 함께합니다.\n머무시는 동안 국내외 주요 작가들의 작품을 상시 무료로 관람하실 수 있습니다.\n\n거제 여행의 중심, 지세포\n소노캄 · 거제씨월드 · 해안데크길 등 주요 관광지를 편리하게 둘러보세요.",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
                 }
               }
             ]
