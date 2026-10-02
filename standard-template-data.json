@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.43.0",
-    "generatedAt": "2026-10-02T06:35:45.394395298Z",
+    "version": "1.44.0",
+    "generatedAt": "2026-10-02T06:51:34.843212709Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -1805,7 +1805,7 @@
                     "blockId": null
                   }
                 ],
-                "mediaType": "video",
+                "mediaType": "image",
                 "description": ""
               }
             }
