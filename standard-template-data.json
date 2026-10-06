@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.48.0",
-    "generatedAt": "2026-10-06T05:36:51.117150907Z",
+    "version": "1.49.0",
+    "generatedAt": "2026-10-06T05:39:05.086845048Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -2132,8 +2132,8 @@
             "title": "",
             "images": [
               {
-                "id": "01a10fb6-eed1-759b-ba70-5d29cf8dd211",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/popup/1791265009157-86pwltf2zb.jpg",
+                "id": "01a10fb8-fbe1-7cd7-b194-738ddc769f92",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0ead1-1666-7f9c-88dd-1ad6c50bc177/popup/1791265143538-ble4jb7fme.jpg",
                 "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
