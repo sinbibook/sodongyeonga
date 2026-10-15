@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.57.0",
-    "generatedAt": "2026-10-15T02:47:19.911102529Z",
+    "version": "1.58.0",
+    "generatedAt": "2026-10-15T10:14:04.539372157Z",
     "templateType": "trip_f",
     "propertyId": "bfd08451-1969-4eeb-8d42-978ec6a514b9",
     "homepageId": "01a0ead1-1666-7f9c-88dd-1ad6c50bc177"
@@ -398,8 +398,8 @@
       {
         "thumbnail": [
           {
-            "id": "01a0f644-4fc2-7352-9e7f-047841a4ff5c",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/01/C65GuMzRwBIk.jpg",
+            "id": "01a13d81-cfd0-7b91-b134-c815b4653f2d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/15/01vSifxYZm2t.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -408,8 +408,8 @@
         ],
         "exterior": [
           {
-            "id": "01a0f1f9-8aca-7c46-95c5-59af80813280",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/09/30/P0ymBdD3oaWk.jpg",
+            "id": "01a13d81-cfd1-7004-aa5e-36af3ca07150",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/15/dW8b2SyUVki1.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
